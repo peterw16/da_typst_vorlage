@@ -6,7 +6,7 @@
     (
       schüler: "Marie Ilic", 
       betreuer: "Prof. Dr.DI Martin Gruber, Prof. DI Peter Zottele, MBA", 
-      aufgabe: "Web-Development, Frontend, Backend, Produktvideo",
+      aufgabe: "Web-Development2, Frontend, Backend, Produktvideo",
       arbeitsaufteilung: [
         Hier kann genauso content stehen wie sonst auch. 
 
