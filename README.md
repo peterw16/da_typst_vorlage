@@ -1,2 +1,2 @@
 # Voraussetzungen: 
-Installation des vs-code Erweiterung Typst LSP
+Installation der vs-code Erweiterung Typst LSP, damit ein pdf generiert wird.
